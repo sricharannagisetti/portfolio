@@ -1,5 +1,4 @@
 # portfolio
-<!DOCTYPE html>
 <html lang="en">
     <header>
         <meta charset="UTF-8">
